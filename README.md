@@ -6,6 +6,8 @@ Cub3d is a 3D game project inspired by the classic Wolfenstein 3D. It is develop
 
 Cub3d is a raycasting game engine that renders a 3D environment from a 2D map. The player can navigate through the map, and the engine handles texture mapping, collision detection, and user input.
 
+![ScreenRecording2024-10-02233236-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/fa2e4973-58e8-42ff-88be-95e943c69fde)
+
 ## Installation
 
 To build and run the project, follow these steps:
