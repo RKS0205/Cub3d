@@ -14,7 +14,7 @@ To build and run the project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Cub3d.git
+    git clone https://github.com/RKS0205/Cub3d.git
     cd Cub3d
     ```
 
