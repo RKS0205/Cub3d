@@ -1,4 +1,4 @@
- Cub3d
+# Cub3d
 
 Cub3d is a 3D game project inspired by the classic Wolfenstein 3D. It is developed using C and the MiniLibX library.
 
